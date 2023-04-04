@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "playerSheet.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 160,
+				"h": 181
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "playerSheet-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 29,
+						"w": 94,
+						"h": 91
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 94,
+						"h": 91
+					}
+				},
+				{
+					"filename": "playerSheet-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 29,
+						"w": 94,
+						"h": 84
+					},
+					"frame": {
+						"x": 1,
+						"y": 94,
+						"w": 94,
+						"h": 84
+					}
+				},
+				{
+					"filename": "playerSheet-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 29,
+						"w": 62,
+						"h": 91
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 62,
+						"h": 91
+					}
+				},
+				{
+					"filename": "playerSheet-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 30,
+						"w": 62,
+						"h": 86
+					},
+					"frame": {
+						"x": 97,
+						"y": 94,
+						"w": 62,
+						"h": 86
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c297d3ff946a8ad9bdf71cb50ac56c0f:56672682b16c5ae5d1693fa90d61a231:8ae178b1c4f11b46b8950ab7eb768161$"
+	}
+}
